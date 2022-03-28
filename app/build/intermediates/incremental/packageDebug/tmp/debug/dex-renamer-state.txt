@@ -1,0 +1,7 @@
+#Mon Mar 28 01:10:43 SGT 2022
+base.1=C\:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

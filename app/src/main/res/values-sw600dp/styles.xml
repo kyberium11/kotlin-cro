@@ -1,0 +1,8 @@
+<resources>
+
+    <style name="CloseButtonStyle">
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_gravity">start|top</item>
+    </style>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="CloseButtonStyle">
+        <item name="android:layout_gravity">end|bottom</item>
+    </style>
+
+</resources>

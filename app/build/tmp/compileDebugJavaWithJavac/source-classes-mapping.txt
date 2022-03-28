@@ -1,0 +1,2 @@
+com/abbyy/rtr/ui/sample/datacapture/BuildConfig.java
+ com.abbyy.rtr.ui.sample.datacapture.BuildConfig

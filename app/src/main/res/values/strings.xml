@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">sample-ui-datacapture</string>
+    <string name="text">Plate Number Capture</string>
+    <string name="business_card">Business card</string>
+    <string name="iban">IBAN</string>
+    <string name="invoice">Invoice</string>
+
+    <string name="abbyy_mi_sdk">ABBYY MI SDK</string>
+
+    <string name="text_start_tip">@string/text_move_inside_area_of_interest</string>
+    <string name="text_move_inside_area_of_interest">Place plate number inside frame</string>
+
+    <string name="business_card_start_tip">@string/business_card_move_inside_area_of_interest</string>
+    <string name="business_card_move_inside_area_of_interest">Place business card inside frame</string>
+
+    <string name="iban_start_tip">@string/iban_move_inside_area_of_interest</string>
+    <string name="iban_move_inside_area_of_interest">Place IBAN inside frame</string>
+
+    <string name="invoice_number_start_tip">Prepare invoice number</string>
+    <string name="invoice_number_move_inside_area_of_interest">Place invoice number inside frame</string>
+    <string name="invoice_number_complete_tip">Prepare vendor</string>
+
+    <string name="invoice_vendor_name_start_tip">@string/invoice_vendor_name_move_inside_area_of_interest</string>
+    <string name="invoice_vendor_name_move_inside_area_of_interest">Place vendor name inside frame</string>
+    <string name="invoice_vendor_name_complete_tip">Prepare total</string>
+
+    <string name="invoice_total_start_tip">@string/invoice_total_move_inside_area_of_interest</string>
+    <string name="invoice_total_move_inside_area_of_interest">Place total inside frame</string>
+
+    <string name="capture_error">Capture error</string>
+    <string name="retake_image">RETAKE IMAGE</string>
+    <string name="share">SHARE</string>
+    <string name="rescan">RESCAN</string>
+
+    <string name="text_title">Text</string>
+    <string name="invoice_number_title">Invoice Number</string>
+    <string name="invoice_vendor_name_title">Vendor Name</string>
+    <string name="invoice_total_title">Total</string>
+    <string name="iban_title">IBAN</string>
+    <string name="bc_city_title">City</string>
+    <string name="bc_country_title">Country</string>
+    <string name="bc_region_title">Region</string>
+    <string name="bc_street_title">Street</string>
+    <string name="bc_zip_title">Zip Code</string>
+    <string name="bc_company_title">Company</string>
+    <string name="bc_email_title">Email</string>
+    <string name="bc_fax_title">Fax</string>
+    <string name="bc_degree_title">Degree</string>
+    <string name="bc_extra_name_title">Extra Name</string>
+    <string name="bc_first_name_title">First Name</string>
+    <string name="bc_last_name_title">Last Name</string>
+    <string name="bc_middle_name_title">Middle Name</string>
+    <string name="bc_name_title_title">Title</string>
+    <string name="bc_job_department_title">Job Department</string>
+    <string name="bc_job_position_title">Job Position</string>
+    <string name="bc_mobile_title">Mobile</string>
+    <string name="bc_phone_title">Phone</string>
+    <string name="bc_text_title">Note</string>
+    <string name="bc_web_title">Site</string>
+    <string name="build_number">SMART PLATE NUMBER RECOGNITION</string>
+    <string name="business_card_crop_tip">Crop Business Card</string>
+
+</resources>

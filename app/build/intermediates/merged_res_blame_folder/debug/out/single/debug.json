@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_profile.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\layout\\list_item_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_line.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\drawable\\bottom_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plate_number_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-mdpi\\plate_number_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plate_number_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-xxhdpi\\plate_number_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plate_number_background.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\drawable\\plate_number_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_iban.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\drawable\\ic_iban.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_plate_number.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-anydpi-v26\\plate_number.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_default.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\drawable\\ic_close_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plate_number_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-hdpi\\plate_number_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plate_number_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-xhdpi\\plate_number_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_text.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\drawable\\ic_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plate_number_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-hdpi\\plate_number_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_capture_data.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\layout\\fragment_capture_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile_detail.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\layout\\fragment_profile_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profiles.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\layout\\fragment_profiles.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plate_number_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-xxhdpi\\plate_number_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plate_number_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-mdpi\\plate_number_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_plate_number.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-hdpi\\plate_number.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_pressed.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\drawable\\ic_close_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plate_number_round.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-xxxhdpi\\plate_number_round.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_plate_number_round.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-anydpi-v26\\plate_number_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_field.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\layout\\list_item_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_business_card.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\drawable\\ic_business_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plate_number_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-xxxhdpi\\plate_number_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_invoice.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\drawable\\ic_invoice.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abbyy_textdatacapture_logo.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\drawable\\abbyy_textdatacapture_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_plate_number.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-xxhdpi\\plate_number.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_plate_number.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-mdpi\\plate_number.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_capture_image.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\layout\\fragment_capture_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plate_number.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-xxxhdpi\\plate_number.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plate_number_foreground.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-xhdpi\\plate_number_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plate_number.png.flat",
+        "source": "C:\\Users\\LENOVO\\Desktop\\abbyy-mc_1385-15_327969_image_and_data-android\\sample-ui-datacapture\\app\\src\\main\\res\\mipmap-xhdpi\\plate_number.png"
+    }
+]
